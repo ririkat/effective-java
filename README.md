@@ -10,3 +10,8 @@
 ### Rules
 - 매 주 정해진 범위 공부 및 정리
 - 이해가지 않는 부분 & 궁금한 부분 질문 올리기
+
+<br/>
+
+### Summary
+[WIKI](https://github.com/ririkat/effective-java/wiki/2%EC%9E%A5)
